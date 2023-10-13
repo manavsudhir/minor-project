@@ -11,6 +11,7 @@ def app():
 
     # Add image to the home page
     st.image("./images.png")
+    st.image(bottom_image, width=400)
 
     # Add brief describtion of your web app
     st.markdown(
