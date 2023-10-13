@@ -10,7 +10,7 @@ def app():
     st.title("Minor project   crop yeild prediction")
 
     # Add image to the home page
-    st.image("./images/home.png")
+    st.image("./images.png")
 
     # Add brief describtion of your web app
     st.markdown(
