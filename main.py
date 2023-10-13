@@ -11,7 +11,7 @@ from Tabs import home, data, predict, visualise
 
 # Configure the app
 st.set_page_config(
-    page_title = 'Crop Yield Prediction',
+    page_title = 'Minor poject Crop Yield Prediction',
     page_icon = 'leaf',
     layout = 'wide',
     initial_sidebar_state = 'auto'
