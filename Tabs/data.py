@@ -11,10 +11,10 @@ def app(df):
     st.title("Data Info page")
 
     # Add subheader for the section
-    st.subheader("View Database")
+    st.subheader("View Data")
 
     # Create an expansion option to check the data
-    with st.expander("View database"):
+    with st.expander("View data"):
         st.dataframe(df)
 
     # Create a section to columns values
